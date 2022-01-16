@@ -14,12 +14,16 @@ This repository contains an ETL report, project report, and Jupyter notebooks th
 
 ## NAVIGATION
 
-Jupyter-Notebooks
+Jupyter-Notebooks  
+
 This folder contains all Jupyter notebooks used to create visualizations for the report.
 
-Reports
+Reports  
+
 This folder contains both the ETL report and the project report.
 
-This project was the final group assessment for Pandas and Visualizations.
+## PROJECT DETAILS
+
+This project was the final group assessment for Pandas and Visualizations (Dev10, Genesis10).  
+
 Group members by GitHub username: sabra007, jlb14n, BenHines10, OhLGitHub
-(Dev10, Genesis10)
