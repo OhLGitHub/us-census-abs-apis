@@ -1,6 +1,6 @@
 # U.S. Census Bureau Annual Business Survey (ABS) APIs
 
-## INTRODUCTION
+## Introduction
 
 This repository contains an ETL report, project report, and Jupyter notebooks that use pandas to analyze data from the U.S. Census Bureau Annual Business Survey (ABS) APIs. The project report explores the following questions:
 
@@ -10,19 +10,19 @@ This repository contains an ETL report, project report, and Jupyter notebooks th
 
 - How does a business’s state predict the success of the company, as defined by average annual pay per employee?
 
-- How does a business’s industry predict the the success of the company, as defined by average annual pay per employee, between 2017-2019?
+- How does a business’s industry predict the success of the company, as defined by average annual pay per employee, between 2017-2019?
 
-## NAVIGATION
+## Navigation
 
-Jupyter-Notebooks  
+**Jupyter-Notebooks**  
 
 This folder contains all Jupyter notebooks used to create visualizations for the report.
 
-Reports  
+**Reports**  
 
 This folder contains both the ETL report and the project report.
 
-## PROJECT DETAILS
+## Project Details
 
 This project was the final group assessment for Pandas and Visualizations (Dev10, Genesis10).  
 
