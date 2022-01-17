@@ -16,7 +16,7 @@ This repository contains an ETL report, project report, and Jupyter notebooks th
 
 **Jupyter-Notebooks**  
 
-This folder contains all Jupyter notebooks used to create visualizations for the report.
+This folder contains all Jupyter notebooks and resources used to create visualizations for the report.
 
 **Reports**  
 
